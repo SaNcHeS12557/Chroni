@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>imgs/chroniLogo.png</file>
+        <file>imgs/chroniIcon.png</file>
+        <file>imgs/activeApp.png</file>
+        <file>imgs/notActiveApp.png</file>
+        <file>imgs/notFoundApp.png</file>
+    </qresource>
+</RCC>
